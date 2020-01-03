@@ -1,2 +1,2 @@
 # sql-without-sql
-How to have some sql functionnalities without a database 
+How to have some sql functionalities without a database.
