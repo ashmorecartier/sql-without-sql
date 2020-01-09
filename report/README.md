@@ -15,7 +15,7 @@ or for a normal run with num = 500,000, redirect to a file :
 
 	./trt.sh > ./imprim.txt
 
-A one minute job on an antic Pentiom 4, XP Pro/cygwin32. 10 seconds on an Intel-I5-8300H, Win 10/cygwin64.
+A one minute job on an antic Pentium 4, XP Pro/cygwin32. 10 seconds on an Intel-I5-8300H, Win 10/cygwin64.
 
 The footers are equivalent to :
 
