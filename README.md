@@ -63,7 +63,7 @@ end-while
 This program structure is quite efficient, safe and powerful.
 
 Three examples are given : 
-- generating a report in /report with a hierarchy of 3 keys in [/report](https://github.com/ashmorecartier/sql-without-sql/tree/master/report),
-- generating weekly, monthly and yearly barchart from a daily barchart in [/barchart](https://github.com/ashmorecartier/sql-without-sql/tree/master/barchart).
+- generate a report in /report with a hierarchy of 3 keys in [/report](https://github.com/ashmorecartier/sql-without-sql/tree/master/report),
+- generate weekly, monthly and yearly barchart from a daily barchart in [/barchart](https://github.com/ashmorecartier/sql-without-sql/tree/master/barchart).
 - split a file according an internal key in one path in [/splitfile](https://github.com/ashmorecartier/sql-without-sql/tree/master/splitfile).
 
